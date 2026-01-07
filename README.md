@@ -9,6 +9,7 @@ Este projeto simula um desafio técnico de uma empresa com foco em:
 - comunicação clara e foco em impacto
 
 ## 📂 Estrutura do Projeto
+```bash
 ├── data/
 │   ├── raw/          
 │   ├── processed/    
@@ -22,6 +23,7 @@ Este projeto simula um desafio técnico de uma empresa com foco em:
 ├── reports/
 ├── requirements.txt
 └── README.md
+```
 
 ## 🧠 Pergunta de Negócio
 Como podemos entender melhor o comportamento dos clientes e oferecer
